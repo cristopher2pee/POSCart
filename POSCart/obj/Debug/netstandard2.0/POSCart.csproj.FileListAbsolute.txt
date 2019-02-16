@@ -1,0 +1,17 @@
+D:\Dev\POSCart\POSCart\POSCart\bin\Debug\netstandard2.0\POSCart.deps.json
+D:\Dev\POSCart\POSCart\POSCart\bin\Debug\netstandard2.0\POSCart.dll
+D:\Dev\POSCart\POSCart\POSCart\bin\Debug\netstandard2.0\POSCart.pdb
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\Views\POSMainPage.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\Views\POSTenderPage.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\Views\QuantityPopupPage.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\Views\SalesPage.xaml.g.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\POSCart.csproj.CoreCompileInputs.cache
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\POSCart.AssemblyInfoInputs.cache
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\POSCart.AssemblyInfo.cs
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\POSCart.dll
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\POSCart.pdb
+D:\Dev\POSCart\POSCart\POSCart\obj\Debug\netstandard2.0\POSCart.csprojAssemblyReference.cache

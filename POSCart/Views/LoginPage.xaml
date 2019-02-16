@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="POSCart.Views.LoginPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout x:Name="MainStock" BackgroundColor="SeaGreen">
+                <StackLayout HorizontalOptions="CenterAndExpand" 
+                             VerticalOptions="CenterAndExpand" 
+                             Margin="40,40,40,40">
+
+                    <Frame HeightRequest="300" 
+                           WidthRequest="250" 
+                           CornerRadius="5" 
+                           BackgroundColor="White">
+                        
+                        <StackLayout>
+                            <Label x:Name="lblUsername" 
+                               Text="Username" 
+                               TextColor="Green"/>
+
+                            <Entry x:Name="txtUsername" 
+                               Placeholder="Username" 
+                               TextColor="Gray" 
+                               BackgroundColor="White"/>
+
+                            <Label x:Name="lblPassword" 
+                               Text="Password" 
+                               TextColor="Green"/>
+
+                            <Entry x:Name="txtPassword" 
+                               Placeholder="Password" 
+                               TextColor="Gray" 
+                               BackgroundColor="White"/>
+
+                            <Button Text="Login"
+                                    TextColor="Wheat"
+                                    BackgroundColor="SeaGreen"
+                                    Clicked="LoginUserClick"/>
+
+                            <Button Text="Activation Code"
+                                    TextColor="Wheat"
+                                    BackgroundColor="SeaGreen"/>
+
+                        </StackLayout>
+                    </Frame>
+
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
